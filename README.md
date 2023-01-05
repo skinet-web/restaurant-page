@@ -1,5 +1,7 @@
 Restaurant Page from the Odin Project.
 
+Live link: https://restaurant-page213.netlify.app/
+
 The main goal was to learn how to create and add elements to a page with JavaScript. I have used Vite instead of Webpack as they suggest.
 
 By completing the Restaurant Page project from The Odin Project, I have learned the following skills:
